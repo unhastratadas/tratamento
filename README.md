@@ -1,0 +1,2 @@
+# tratamento
+GitHub Pages
