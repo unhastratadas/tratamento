@@ -1403,7 +1403,7 @@ body {
   color: #767676;
 }
 .cid-rEksywfQzu H1 {
-  color: #ffffff;
+  color: #ff3366;
 }
 .cid-rEksywfQzu DIV {
   color: #ff3366;
@@ -1446,20 +1446,6 @@ body {
 }
 .cid-rROMAk3nhH SPAN {
   color: #000000;
-}
-.cid-rTpZHFXzX8 {
-  background: #ff3366;
-  padding-top: 0px;
-  padding-bottom: 15px;
-  background: linear-gradient(0deg, #ff3366, #ffffff);
-}
-.cid-rTpZHFXzX8 .video-block {
-  margin: auto;
-}
-@media (max-width: 768px) {
-  .cid-rTpZHFXzX8 .video-block {
-    width: 100% !important;
-  }
 }
 .cid-rjWOYbGIbl {
   padding-top: 0px;
