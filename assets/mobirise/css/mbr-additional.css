@@ -1394,16 +1394,56 @@ body {
 .jq-selectbox:hover .jq-selectbox__trigger-arrow {
   border-top-color: #ff7300;
 }
-.cid-rVddMTG8yo {
-  padding-top: 90px;
-  padding-bottom: 45px;
-  background-image: url("../../../assets/images/unhasbr2-700x875.jpg");
+.cid-rWwEY9hJRX {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
 }
-.cid-rVddMTG8yo H1 {
+.cid-rWwEY9hJRX .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rWwEY9hJRX H2 {
+  color: #000000;
+}
+.cid-rWwEY9hJRX DIV {
+  color: #000000;
+}
+.cid-rWwEY9hJRX .mbr-section-subtitle B {
+  color: #000000;
+}
+.cid-rWwEY9hJRX B {
   color: #ff3366;
 }
-.cid-rVddMTG8yo SPAN {
+.cid-rWwFZhTlii {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rWwFZhTlii .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rWwFZhTlii B {
+  color: #ff3366;
+}
+.cid-rWwFZhTlii H2 {
   color: #ffffff;
+}
+.cid-rWwFZhTlii FONT {
+  color: #000000;
+}
+.cid-rWwD0PvoOJ {
+  background: #ff3366;
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background: linear-gradient(0deg, #ff3366, #ffffff);
+}
+.cid-rWwD0PvoOJ .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rWwD0PvoOJ .video-block {
+    width: 100% !important;
+  }
 }
 .cid-rjWOYbGIbl {
   padding-top: 15px;
